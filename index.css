@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80%;
+}
+
+.nps-results {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.js-error-message {
+    color: red;
+}
+
+
+label {
+    display: block;
+}
+
+
+label, .list-states {
+    color: green;
+    font-size: 1.2em;
+}
+
+fieldset {
+    border: 0;
+    line-height: 2;
+}
+
+.park-name {
+    color: rgb(226, 43, 73);
+    font-size: 1.3em;
+}
+
+.park-desc {
+   color: rgb(23, 124, 182);
+}
